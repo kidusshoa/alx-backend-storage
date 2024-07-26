@@ -1,0 +1,2 @@
+// Activates a MongoDB database.
+use my_db;
